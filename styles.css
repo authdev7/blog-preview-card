@@ -34,12 +34,17 @@ body {
     line-height: 1.5;
 }
 
-main p {
-    font-size: 1rem;
-}
+
 
 .blog-img {
     margin-bottom: 24px;
+    width: 100%;
+}
+
+@media (max-width: 380px) {
+    main {
+        width: 80%;
+    }
 }
 
 main {
