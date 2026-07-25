@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog Preview Card Solution
 
-This is my attempted solution to the Blog Preview Card Challenge on [Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). The challenge required building building a responsive layout for a blog card.
+This is my attempted solution to the Blog Preview Card Challenge on [Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). The challenge required building a responsive layout for a blog card.
 
 ## Live Demo
 
@@ -19,4 +19,5 @@ This is my attempted solution to the Blog Preview Card Challenge on [Frontend Me
 
 ## Improvements
 
+To be Added
  <!-- Will add this part after I get a review from others and AI -->
