@@ -19,5 +19,6 @@ This is my attempted solution to the Blog Preview Card Challenge on [Frontend Me
 
 ## Improvements
 
-To be Added
- <!-- Will add this part after I get a review from others and AI -->
+After getting a review, I have:
+- removed some redundant styles
+- added spacing around the card for smaller devices 
