@@ -4,7 +4,7 @@ This is my attempted solution to the Blog Preview Card Challenge on [Frontend Me
 
 ## Live Demo
 
-[Live Demo of Blog Preview Card](https://weebdora.github.io/blog-preview-card/)
+[Live Demo of Blog Preview Card](https://authdev7.github.io/blog-preview-card/)
 
 ## Screenshot 
 
